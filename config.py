@@ -1,0 +1,1 @@
+OXFORD_DICT = "data/oxford_dict.json"
